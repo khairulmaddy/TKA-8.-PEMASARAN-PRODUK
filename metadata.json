@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Ujian Produk Kreatif dan Kewirausahaan",
+  "description": "Aplikasi kuis dan ujian interaktif Produk Kreatif dan Kewirausahaan (PKK) dengan 40 soal HOTS (C1-C5), timer stopwatch, 3 kali kesempatan ujian, pembahasan, dan rekapitulasi nilai admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
